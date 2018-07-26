@@ -1,4 +1,4 @@
-#Angular Components with TypeScript
+#Angular
 
 Prerquisites:
 - Install npm globally
