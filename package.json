@@ -71,6 +71,6 @@
     "angulartics": "^1.5.0",
     "angular-ui-bootstrap": "^2.5.0",
     "bootstrap": "~3.3.7",
-    "jquery": "^2.1.4"
+    "jquery": "~3.0.0"
   }
 }
